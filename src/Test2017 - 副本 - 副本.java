@@ -1,17 +1,17 @@
 package com;
 /**
  * 
- * @ÀàÃû³Æ Test2017.java
- * @ÀàÃèÊö <pre></pre>
- * @×÷Õß zhuangzhichao zhuangzhichao@tansun.com.cn
- * @´´½¨Ê±¼ä 2017Äê8ÔÂ22ÈÕ ÏÂÎç2:16:38
- * @°æ±¾ 1.00
+ * @ç±»åç§° Test2017.java
+ * @ç±»æè¿° <pre></pre>
+ * @ä½œè€… zhuangzhichao zhuangzhichao@tansun.com.cn
+ * @åˆ›å»ºæ—¶é—´ 2017å¹´8æœˆ22æ—¥ ä¸‹åˆ2:16:38
+ * @ç‰ˆæœ¬ 1.00
  *
- * @ĞŞ¸Ä¼ÇÂ¼
+ * @ä¿®æ”¹è®°å½•
  * <pre>
- *     °æ±¾                       ĞŞ¸ÄÈË 		ĞŞ¸ÄÈÕÆÚ 		 ĞŞ¸ÄÄÚÈİÃèÊö
+ *     ç‰ˆæœ¬                       ä¿®æ”¹äºº 		ä¿®æ”¹æ—¥æœŸ 		 ä¿®æ”¹å†…å®¹æè¿°
  *     ----------------------------------------------
- *     1.00 	zhuangzhichao 	2017Äê8ÔÂ22ÈÕ             
+ *     1.00 	zhuangzhichao 	2017å¹´8æœˆ22æ—¥             
  *     ----------------------------------------------
  * </pre>
  */
@@ -31,6 +31,6 @@ public class Test2017 {
 		System.out.println("3");
 		System.out.println("4");
 		System.out.println("5");
-		
+		System.out.println("5");
 	}
 }
